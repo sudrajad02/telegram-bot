@@ -1,3 +1,4 @@
+```bash
 # install dependencies
 $ pnpm install
 or
@@ -12,3 +13,4 @@ $ change name app.config.json
 $ pnpm start
 or
 $ npm start
+```
